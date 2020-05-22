@@ -75,30 +75,5 @@ while(i!=0&&j!=0)
         }
         reverse(res.begin(),res.end());
     cout<<res<<endl;
-/*
-while(i>0&&j>0)
-{
-    if(dp[i][j]==dp[i-1][j-1]+1)
-    {
-        ans.push(t[j-1]);
-        i--;
-        j--;
-
-    }
-    else
-    {
-        j--;
-    }
-    
-}
-
-while(!ans.empty())
-{
-    cout<<ans.top();
-    ans.pop();
-}
-cout<<endl;*/
-
-
     return 0;
 }
