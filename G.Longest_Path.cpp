@@ -7,11 +7,7 @@
       ////////    //      //   //          //
 */
 
-
-
 #include<bits/stdc++.h>
-
-
 #define eps 1e-8
 #define PI 3.141592653589793
 #define bsize 512
